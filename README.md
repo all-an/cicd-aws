@@ -29,7 +29,13 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
+### For further consult
 
+<p align="center">
+        <a href="https://www.linkedin.com/in/all-an/">
+        <img align="center" width="946" height="536"  src="/img/merge.png" />
+</a>
+</p>
 
 ### Instructor
 
