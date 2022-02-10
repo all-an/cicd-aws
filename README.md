@@ -1,11 +1,15 @@
 # DevOps with AWS
 LinkedIn Learning course DevOps with AWS. The full course is available from [LinkedIn Learning][lil-course-url].
 
-- IAM code commit user
-- CodeCommit
-- CodeBuild
-- CodeDeploy
-- CodePipeline
+- Creating IAM code commit user
+
+## AWS Developer Tools
+
+- AWS CodeSuite
+    - CodeCommit
+    - CodeBuild
+    - CodeDeploy
+    - CodePipeline
 
 ![DevOps with AWS][lil-thumbnail-url] 
 
